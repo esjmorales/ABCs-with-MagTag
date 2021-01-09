@@ -1,5 +1,5 @@
 # MagTagBu
-Adafruit's MagTag IoT with learning activities for kids.
+Adafruit's MagTag IoT with learning activities for kids coded in CircuitPython.
 <br/>Activities include ABCs, Songs, Colors, and Shapes.
 <br/>
 <br/>Project parts from AdaBox 017: https://learn.adafruit.com/adabox017
