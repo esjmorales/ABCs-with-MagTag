@@ -4,3 +4,4 @@ Adafruit's MagTag IoT with learning activities for kids.
 <br/>
 <br/>Project parts from AdaBox 017: https://learn.adafruit.com/adabox017
 <br/>MagTag Documentation: https://circuitpython.readthedocs.io/projects/magtag/en/latest/api.html#adafruit-magtag-magtag
+<br/>Requires CircuitPython: https://learn.adafruit.com/welcome-to-circuitpython/installing-circuitpython
