@@ -1,5 +1,5 @@
 '''
-https://github.com/esjmorales/MagTagBu/
+CircuitPython Main File
 
 MagTag Documentation: https://circuitpython.readthedocs.io/projects/magtag/en/latest/api.html#adafruit-magtag-magtag
 '''
